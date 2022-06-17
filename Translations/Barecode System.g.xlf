@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Barecode System">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 4048777460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BL Barcode List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4048777460 - Field 993765549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BL Barcode List - Field Barcode No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4048777460 - Field 2247758276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BL Barcode List - Field Barcode Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4048777460 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BL Barcode List - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 64124321 - Method 3376090270 - NamedType 1594134675" size-unit="char" translate="yes" xml:space="preserve">
+          <source>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ-. $/+%*</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Barcode 3 of 9 - Method MkBarcode - NamedType Standard39</note>
+        </trans-unit>
+        <trans-unit id="Page 1862351476 - Action 2275944695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Barcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Barcode Card - Action CreateBar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1062007918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode Generator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BG Barcode Generator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1062007918 - Control 993765549 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Barcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BG Barcode Generator - Control Barcode No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1062007918 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Description of the Barcode.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BG Barcode Generator - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1062007918 - Action 2275944695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Barcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BG Barcode Generator - Action CreateBar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1062007918 - Action 562047070 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>1D Barecode Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BG Barcode Generator - Action 1D Barecode Report - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1062007918 - Action 562047070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>1D Barecode Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BG Barcode Generator - Action 1D Barecode Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1062007918 - Action 653233195 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>2D Barecode Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BG Barcode Generator - Action 2D Barecode Report - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1062007918 - Action 653233195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>2D Barecode Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BG Barcode Generator - Action 2D Barecode Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3990595329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>1D Item Barcodes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report 1D Item BarCodes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3990595329 - ReportDataItem 4048777460 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcodes Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report 1D Item BarCodes - ReportDataItem BL Barcode List - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 1271007161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report 2D Barcode Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1271007161 - ReportDataItem 4048777460 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcodes Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report 2D Barcode Item - ReportDataItem BL Barcode List - Property RequestFilterHeading</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

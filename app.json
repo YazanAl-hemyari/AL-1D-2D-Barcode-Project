@@ -1,0 +1,27 @@
+{
+  "id": "8b87f03a-56a0-4d19-a9f7-1a48dbd67777",
+  "name": "Barecode System",
+  "contextSensitiveHelpUrl": "http://www.mycompany.com/help",
+  "publisher": "IBB"
+  "version": "3.1.1.1",
+  "brief": "Barecode to IBB",
+  "description": "barcode IBB Innovations",
+  "privacyStatement": "http://www.mycompany.com/privacy",
+  "EULA": "http://www.mycompany.com/eula",
+  "help": "http://www.mycompany.com/help",
+  "url": "http://www.mycompany.com/privacy",
+  "logo": "./images/IMG-20200816-WA0007.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 80100
+    }
+  ],
+  "showMyCode": false,
+  "runtime": "6.0",
+  "features": ["TranslationFile"]
+}
